@@ -5,9 +5,9 @@ We group our technical projects into Epics which are broken down into individual
 
 This take-home project presents an example epic with two stories. You should read and understand the requirements of the epic, and then:
 
-1. [Review this Pull Request (PR)]() for the [first story](). Provide feedback on the PR to address bugs, potential optimizations, and how well the PR satisfies the story's requirements. You do not need to provide feedback on code style or other "nits" if they don't directly relate to these categories. We expect this to take 30 minutes; please spend no more than 45 minutes on this.
+1. [Review this Pull Request (PR)](https://github.com/runforsomething/senior-tech-lead-hiring-2026/pull/3) for the [first story](https://github.com/runforsomething/senior-tech-lead-hiring-2026/issues/1). Provide feedback on the PR to address bugs, potential optimizations, and how well the PR satisfies the story's requirements. You do not need to provide feedback on code style or other "nits" if they don't directly relate to these categories. We expect this to take 30 minutes; please spend no more than 45 minutes on this.
 
-2. [Review the second story in the epic](), and write out a technical specification document (TSD) to provide direction to the engineerswho will implement it. You can use this template. We are not looking for specific implementation decisions in your TSD. Instead, we are interested in how you define and describe a non-trivial software system. We expect this to take about 1 hour; please spend no more than 90 minutes on this. Your TSD should provide direction on:
+2. [Review the second story in the epic](https://github.com/runforsomething/senior-tech-lead-hiring-2026/issues/2), and write out a technical specification document (TSD) to provide direction to the engineerswho will implement it. [You can use this template](https://github.com/runforsomething/senior-tech-lead-hiring-2026/wiki/TSD-Template). We are not looking for specific implementation decisions in your TSD. Instead, we are interested in how you define and describe a non-trivial software system. We expect this to take about 1 hour; please spend no more than 90 minutes on this. Your TSD should provide direction on:
 
   1. Data models/data structures
 
@@ -29,7 +29,7 @@ To submit:
 
 - Please submit your work by the night before your technical interview.
 
-- Submit by sending an email to jordanhaines@runforsomething.net letting us know it's complete. You don't need to attach/submit anything since your work is all in Github.
+- Submit by sending an email to jordanhaines [at] runforsomething.net letting us know it's complete. You don't need to attach/submit anything since your work is all in Github.
 
 ## Epic Description
 
